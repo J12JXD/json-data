@@ -1,0 +1,162 @@
+[
+  {
+    "UserID": 1,
+    "id": 1,
+    "nombre": "Laptop HP Spectre x360",
+    "precio": 1499.99,
+    "descripcion": "Una laptop 2 en 1 con pantalla táctil de 13.3 pulgadas, procesador Intel Core i7 y SSD de 512 GB.",
+    "stock": 10
+  },
+  {
+    "UserID": 2,
+    "id": 2,
+    "nombre": "Teléfono inteligente iPhone 13 Pro",
+    "precio": 1099.99,
+    "descripcion": "El último iPhone con pantalla OLED Super Retina XDR de 6.1 pulgadas, chip A15 Bionic y cámara triple.",
+    "stock": 20
+  },
+  {
+    "UserID": 3,
+    "id": 3,
+    "nombre": "Televisor Samsung QLED 4K de 55 pulgadas",
+    "precio": 899.99,
+    "descripcion": "Un televisor QLED con resolución 4K, HDR10+, y una experiencia de visualización envolvente.",
+    "stock": 15
+  },
+  {
+    "UserID": 4,
+    "id": 4,
+    "nombre": "Cámara digital Sony Alpha A7 III",
+    "precio": 1999.99,
+    "descripcion": "Cámara mirrorless con sensor full-frame de 24.2 megapíxeles, grabación 4K y estabilización de imagen.",
+    "stock": 10
+  },
+  {
+    "UserID": 5,
+    "id": 5,
+    "nombre": "Portátil MacBook Air M1",
+    "precio": 1299.99,
+    "descripcion": "Portátil ultraligero con procesador Apple M1, pantalla Retina y hasta 16 GB de RAM.",
+    "stock": 15
+  },
+  {
+    "UserID": 6,
+    "id": 6,
+    "nombre": "Altavoces Sonos Play:5",
+    "precio": 499.99,
+    "descripcion": "Altavoces inteligentes con calidad de sonido superior, control por voz y streaming de música.",
+    "stock": 8
+  },
+  {
+    "UserID": 7,
+    "id": 7,
+    "nombre": "Tablet iPad Pro 12.9 pulgadas",
+    "precio": 1099.99,
+    "descripcion": "Tablet con pantalla Liquid Retina XDR, chip A12Z Bionic y compatibilidad con Apple Pencil y Magic Keyboard.",
+    "stock": 12
+  },
+  {
+    "UserID": 8,
+    "id": 8,
+    "nombre": "Impresora 3D Creality Ender 3",
+    "precio": 299.99,
+    "descripcion": "Impresora 3D de alta calidad para proyectos creativos y prototipos.",
+    "stock": 10
+  },
+  {
+    "UserID": 9,
+    "id": 9,
+    "nombre": "Reloj inteligente Garmin Fenix 6",
+    "precio": 599.99,
+    "descripcion": "Reloj deportivo con GPS, seguimiento de actividad avanzado y duración de la batería prolongada.",
+    "stock": 20
+  },
+  {
+    "UserID": 10,
+    "id": 10,
+    "nombre": "Silla de juego Secretlab Omega Series",
+    "precio": 349.99,
+    "descripcion": "Silla ergonómica para juegos con soporte lumbar ajustable y cuero PU de alta calidad.",
+    "stock": 15
+  },
+  {
+    "UserID": 11,
+    "id": 11,
+    "nombre": "Lavadora LG de carga frontal",
+    "precio": 799.99,
+    "descripcion": "Lavadora eficiente con capacidad de 4.5 cu ft, múltiples ciclos de lavado y tecnología de ahorro de energía.",
+    "stock": 8
+  },
+  {
+    "UserID": 12,
+    "id": 12,
+    "nombre": "Teclado inalámbrico Logitech K780",
+    "precio": 49.99,
+    "descripcion": "Teclado inalámbrico multi-dispositivo con soporte para teléfono y tablet.",
+    "stock": 25
+  },
+  {
+    "UserID": 13,
+    "id": 13,
+    "nombre": "Mesa de comedor de roble macizo",
+    "precio": 699.99,
+    "descripcion": "Mesa de comedor de roble sólido con capacidad para 6 personas.",
+    "stock": 7
+  },
+  {
+    "UserID": 14,
+    "id": 14,
+    "nombre": "Bicicleta de carretera Specialized Roubaix",
+    "precio": 2399.99,
+    "descripcion": "Bicicleta de carretera con cuadro de carbono, frenos de disco y componentes de alta gama.",
+    "stock": 10
+  },
+  {
+    "UserID": 15,
+    "id": 15,
+    "nombre": "Videojuego Cyberpunk 2077",
+    "precio": 59.99,
+    "descripcion": "Videojuego de rol de acción ambientado en un futuro distópico.",
+    "stock": 30
+  },
+  {
+    "UserID": 16,
+    "id": 16,
+    "nombre": "Horno de microondas Panasonic Inverter",
+    "precio": 149.99,
+    "descripcion": "Microondas con tecnología Inverter para cocinar de manera uniforme y eficiente.",
+    "stock": 18
+  },
+  {
+    "UserID": 17,
+    "id": 17,
+    "nombre": "Libro \"El nombre del viento\" de Patrick Rothfuss",
+    "precio": 19.99,
+    "descripcion": "Primera novela de la trilogía Crónica del Asesino de Reyes.",
+    "stock": 22
+  },
+  {
+    "UserID": 18,
+    "id": 18,
+    "nombre": "Sistema de cámaras de seguridad Arlo Pro 4",
+    "precio": 499.99,
+    "descripcion": "Sistema de cámaras de seguridad inalámbricas con resolución 2K y visión nocturna.",
+    "stock": 10
+  },
+  {
+    "UserID": 19,
+    "id": 19,
+    "nombre": "Batería externa Anker PowerCore 26800mAh",
+    "precio": 59.99,
+    "descripcion": "Batería externa de alta capacidad para cargar dispositivos móviles en movimiento.",
+    "stock": 25
+  },
+  {
+    "UserID": 20,
+    "id": 20,
+    "nombre": "Juego de sábanas de algodón orgánico",
+    "precio": 79.99,
+    "descripcion": "Juego de sábanas suaves y ecológicas con certificación GOTS.",
+    "stock": 14
+  }
+]
